@@ -1,0 +1,32 @@
+.title, .image, .table, h2, #textInput{
+    display: flex;
+    justify-content: center;
+}
+h2{
+    color: white;
+}
+
+#textInput{
+    width: 240px;
+}
+
+.table td{
+    border: 1px solid;
+    text-align: center;
+}
+
+.image img{
+    height: 300px;
+    border-radius: 6px;
+}
+
+#name{
+    color: white;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+body{
+    background: url("https://i.pinimg.com/originals/36/fb/0d/36fb0d02862c4ac0711ff7694337e9cf.jpg");
+    background-size: 100%;
+}
